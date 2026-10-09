@@ -31,4 +31,4 @@ selectElement.addEventListener("change", e => {
 });
 };
 
-document.addEventListener("DOMContentLoaded", initializeApp);
+document.addEventListener("DOMContentLoaded", initializeApp); 
